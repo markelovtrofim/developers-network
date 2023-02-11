@@ -1,0 +1,32 @@
+.general {
+    background-color: #F6F8F9;
+}
+
+
+.inner {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 30px 0 75px 0;
+}
+
+.title_box {
+    display: block;
+    padding: 30px;
+    text-align: center;
+}
+
+
+.title_text_box {
+    margin-top: 10px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700; 
+    color: #000000;
+    margin: 15px 0;
+    padding-bottom: 20px;
+    border-bottom: 3px solid black;
+}
+
