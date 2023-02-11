@@ -3,6 +3,7 @@
 A social network for front-end developers,
 developed according to best course
 about ReactJS "Way of the Samurai"
+
 [![ReactJS course - Way of the Samurai](https://i.ytimg.com/vi/gb7gMluAeao/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 
 
