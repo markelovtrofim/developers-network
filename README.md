@@ -1,7 +1,5 @@
 [![Developers network](src/assets/img/logo.jpg)](https://markelovtrofim.github.io/developers-network)
 
-https://markelovtrofim.github.io/developers-network
-
 A social network for front-end developers,
 developed according to best course
 about ReactJS "Way of the Samurai"
